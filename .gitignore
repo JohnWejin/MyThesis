@@ -1,0 +1,6 @@
+_build/
+\#*\#
+*~
+.vscode/settings.json
+**/torque_exercise/
+**/hpc_exercise_slurm/
